@@ -28,7 +28,7 @@ Do not worry, though, as everything you will need to build your MSI is Open Sour
 * Install WiX Toolset's necessary dependencies
   * Go to Control Panel -> Programs -> Turn Windows features on or off -> .NET Framework 3.5
 * Install [WiX Toolset](https://wixtoolset.org/releases/) - this was tested on V3.11.2
-* Download your CrowdStrike installer (`WindowsSensor.LionLanner.exe`), save it in the same directory as this git
+* Download your CrowdStrike installer (`WindowsSensor.exe`), save it in the same directory as this git
 repository
 * Build the MSI
 ```shell
